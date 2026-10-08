@@ -3,3 +3,4 @@ shot-*.png
 node_modules/
 .clasp.json
 *.bak
+deploy/
